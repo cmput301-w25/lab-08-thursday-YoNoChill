@@ -62,4 +62,3 @@ jobs:
           api-level: 29
           script: ./gradlew connectedCheck
           working-directory: code
-
